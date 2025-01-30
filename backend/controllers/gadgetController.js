@@ -23,6 +23,7 @@ const listGadgets = async (req, res) => {
   }
 };
 
+// get list of filtered gadgets in inventory, uses status column for filter
 const filterGadgets = async (req, res) => {
   try {
     const { status } = req.query;
@@ -123,7 +124,7 @@ const deleteGadget = async (req, res) => {
 };
 
 //
-// generates a unique random weapon name
+// generates a unique random confirmation code
 const generateConfirmationCode = () => {
   const idx = Math.floor(Math.random() * confirmationCodes.length);
   return confirmationCodes[idx];
