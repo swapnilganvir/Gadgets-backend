@@ -69,7 +69,7 @@ This project demonstrates strong backend development skills, including API desig
 ## Contact
 Swapnil Ganvir  - [@LinkedIn](https://www.linkedin.com/in/swapnilganvir) - swapnilganvir54@gmail.com
 
-Project Link: [https://github.com/swapnilganvir/project_app](https://github.com/swapnilganvir/project_app)
+Project Link: [https://github.com/swapnilganvir/Gadgets-backend](https://github.com/swapnilganvir/Gadgets-backend)
 
 API Link: [Gadgets API](https://gadgets-backend-au6j.onrender.com)
 
